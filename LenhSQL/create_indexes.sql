@@ -1,0 +1,1 @@
+﻿-- Tạo Index: MedicineCode, ExpiredDate, BatchLotId

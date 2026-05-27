@@ -1,0 +1,8 @@
+﻿version: '3.8'
+services:
+  api:
+    build: ./src/DrugDistribution.API
+  ai:
+    build: ./src/DrugDistribution.AI
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
